@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Duplicator",
+	"Description": "Duplicate Object",
+	"Category": "Other",
+	"CreatedBy": "Rene",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Duplicator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
