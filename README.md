@@ -6,6 +6,7 @@ Command lines for duplicate UObject
 ```
 
 Custom_Duplicate_Actor:
-  - Spawn, in the Editor World, for 5 times all the Assets selected in the Content Browser only if they're child of AActor.
+  - Spawn, in the Editor World, for 5 times all the Assets selected in the Content Browser 
+    only if they're child of AActor.
   
 ```
